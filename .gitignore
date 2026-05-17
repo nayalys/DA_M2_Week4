@@ -1,0 +1,28 @@
+# ── Data (archivos grandes, no subir a GitHub) ──────────────
+data/
+
+# ── Entorno virtual ──────────────────────────────────────────
+venv/
+.env
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Outputs / imágenes generadas ─────────────────────────────
+outputs/
+*.png
+*.jpg
+*.pdf
+
+# ── Sistema operativo ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
